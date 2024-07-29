@@ -21,8 +21,9 @@
 // `<a href="#">link</a>`
 // []()
 
-// const divEl = document.querySelector('.dropdown');
-// divEl.insertAdjacentHTML("afterend", `<a href="#">link</a>`)
+
+// const dropdown = document.querySelector('div.dropdown');
+// dropdown.insertAdjacentHTML("afterend", `<a href="#">link</a>`)
 
 // 5. У элемента с id "dropdownMenuButton" замените id на "superDropdown".
 // []()
