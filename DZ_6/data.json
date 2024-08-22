@@ -1,43 +1,55 @@
 [
     {
-        "id": 1,
+        "count":1,
         "title": "ELLERY X M'O CAPSULE",
         "text": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "color": "yellow",
+        "size":"XXL",
         "price": "$52.00",
         "img":"img/products_img_1.svg"
     },
     {
-        "id": 2,
+        "count":2,
         "title": "ELLERY X M'O CAPSULE",
         "text": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "color": "white",
+        "size":"M",
         "price": "$55.00",
         "img":"img/products_img_2.png"
     },
     {
-        "id": 3,
+        "count":3,
         "title": "ELLERY X M'O CAPSULE",
         "text": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "color": "green",
+        "size":"XS",
         "price": "$48.00",
         "img":"img/products_img_3.svg"
     },
     {
-        "id": 4,
+        "count":4,
         "title": "ELLERY X M'O CAPSULE",
         "text": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "color": "blue",
+        "size":"S",
         "price": "$46.00",
         "img":"img/products_img_4.svg"
     },
     {
-        "id": 5,
+        "count":5,
         "title": "ELLERY X M'O CAPSULE",
         "text": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "color": "black",
+        "size":"L",
         "price": "$73.00",
         "img":"img/products_img_5.svg"
     },
     {
-        "id": 6,
+        "count":6,
         "title": "ELLERY X M'O CAPSULE",
         "text": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "color": "red",
+        "size":"XL",
         "price": "$77.00",
         "img":"img/products_img_6.svg"
     }
