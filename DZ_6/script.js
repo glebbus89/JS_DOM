@@ -1,4 +1,4 @@
-const url = '/DZ_6/data.json'
+const url = './data.json'
 async function getData(url) {
     try {
         const response = await fetch(url);
